@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "clarity-app-loader",
   "version": "1.0.4",
+=======
+  "name": "sh-app-loader",
+  "version": "1.0.5",
+>>>>>>> 217855e (fixed motto style)
   "description": "preload asstes by showing progress bar",
   "main": "index.js",
   "directories": {
@@ -16,7 +21,7 @@
     "bar",
     "preload web app"
   ],
-  "author": "Sharif Eiri",
+  "author": "Sharif Eiri - Rashed Bayani",
   "license": "ISC",
   "dependencies": {
     "uglify-es": "^3.3.9"
