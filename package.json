@@ -1,6 +1,6 @@
 {
   "name": "sh-app-loader",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "preload asstes by showing progress bar",
   "main": "index.js",
   "directories": {
@@ -16,7 +16,7 @@
     "bar",
     "preload web app"
   ],
-  "author": "Sharif Eiri",
+  "author": "Sharif Eiri - Rashed Bayani",
   "license": "ISC",
   "dependencies": {
     "uglify-es": "^3.3.9"
