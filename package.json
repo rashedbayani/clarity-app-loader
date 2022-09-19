@@ -26,6 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rashedbayani/clarity-app-loader"
-  }
+    "url": "git+https://github.com/rashedbayani/clarity-app-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rashedbayani/clarity-app-loader/issues"
+  },
+  "homepage": "https://github.com/rashedbayani/clarity-app-loader#readme"
 }
