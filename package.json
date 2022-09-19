@@ -1,5 +1,5 @@
 {
-  "name": "sh-app-loader",
+  "name": "clarity-app-loader",
   "version": "1.0.6",
   "description": "preload asstes by showing progress bar",
   "main": "index.js",
@@ -22,10 +22,10 @@
     "uglify-es": "^3.3.9"
   },
   "bin": {
-    "sh-app-loader": "index.js"
+    "clarity-app-loader": "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sharif3271/app-loader"
+    "url": "git+https://github.com/rashedbayani/clarity-app-loader.git"
   }
 }
